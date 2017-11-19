@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toybox1975/hello.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "sudha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toybox1975/hello/issues"
+  },
+  "homepage": "https://github.com/toybox1975/hello#readme"
+}
